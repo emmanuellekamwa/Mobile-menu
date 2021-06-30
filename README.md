@@ -2,7 +2,7 @@
 
 The aim of this project is to demonstrates the use of semantic html, css and javascript to build a mobile menu of a portfolio website.
 
-[screenshot](screenshot.png)
+![screenshot](screenshot.png)
 
 # Built With
 
